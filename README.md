@@ -10,5 +10,5 @@ main.py açık iken yazınız:
 
 Eğer hesaplama daha önce başlatılmışsa başka komut yazamazsınız.
 
-## Uyarı
+## Uyarı / Warning
 Hesaplamalar kesin olmamakla beraber takım bonuslarını hesaplamada bilinen (tahminen %0.5'lik) bir hata payı mevcuttur.
