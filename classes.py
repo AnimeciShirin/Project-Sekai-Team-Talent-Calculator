@@ -29,7 +29,7 @@ class characters:
     tsukasa = {"key":"tt", "name":"Tenma Tsukasa", "team":"wonderLShowT", "color":"yellow3"} # ✖ | Pls shut up Tsu - you are giving headache to my lovely Nene
     emu = {"key":"oe", "name":"Otori Emu", "team":"wonderLShowT", "color":"hot_pink"} # ღ
     nene = {"key":"kn", "name":"Kusanagi Nene", "team":"wonderLShowT", "color":"#34DD9A"} # ღღღ
-    rui = {"key":"kr", "name":"Kamishiro Rui", "team":"wonderLShowT", "color":" #BB88ED"} # ღღ
+    rui = {"key":"krui", "name":"Kamishiro Rui", "team":"wonderLShowT", "color":"#BB88ED"} # ღღ
 
 # Ni/ghtcord at✗25:00
     kanade = {"key":"yk", "name":"Yoisaki Kanade", "team":"nightcord25", "color":"#BB6588"}
