@@ -9,14 +9,11 @@ for n in dir(characters):
             if getattr(characters, n)["team"] == "virtualS":
                 getattr(characters, n)["sub"] = "0"
 
-
-
 def get_group(char):
     try:
         return getattr(characters, char)["team"]
     except NameError or IndexError:
         sys.exit("At least one character input is wrong")
-
 
 def calculate(
     chars,
