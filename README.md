@@ -3,7 +3,7 @@ An application you can calculate your team talent.
 
 ## Usage
 ### Example
-```python main.py -c char1,char2,char3.char4,char5 -g sub_group_if_there_is_in_order -r 4,4,0,3,4 -m 0,0,3,5,0 -s 2,2,2,1,0 -a 14,12,10,16,20 -t 2.5,1.5,3,0.5,1 -b 1.5,2,2.5,3.1,1.9 -x n -q n```
+```python main.py -c miku,kanade,saki,rui,emu -g moreMJump -r 4,4,0,3,4 -m 0,0,3,5,0 -s 2,2,2,1,0 -a 14,12,10,16,20 -t 2.5,1.5,3,0.5,1 -b 1.5,2,2.5,3.1,1.9 -x n -q n```
 ### Commands
 ```
 "-c" | 5 character input | Example: -c miku,kanade,saki,rui,emu
